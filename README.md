@@ -1,2 +1,2 @@
 # Memory Test de MF para Android
-Botonera MF para android, es la botonera con las frases de mis compañeros de trabajo, realizado en html, JavaScript, css.
+Juego de memoria MF para android, de mis compañeros de trabajo 2019, realizado en html, JavaScript, css.
